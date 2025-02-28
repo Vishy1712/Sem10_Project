@@ -185,3 +185,4 @@ wrapt==1.15.0
 yarl==1.9.2
 zc.lockfile==3.0.post1
 zipp==3.16.2
+dotenv
